@@ -217,8 +217,8 @@ INFLACE_2027 = 2.7
 UKAZATELE = [
     # (nadpis, hodnota v %, popisek, růst je dobrý?, porovnat s inflací?, ikona)
     ("INFLACE 2027", INFLACE_2027, "průměrná míra inflace", False, False, "inflace"),
-    ("VYSOKOŠKOLSKÉ VZDĚLÁVÁNÍ", -3.6, "meziroční změna 2027", True, False, "vs"),
-    ("VÝZKUM A VÝVOJ (R&D)", -3.0, "meziroční změna 2027", True, False, "vyzkum"),
+    ("VZDĚLÁVÁNÍ", -0.14, "meziroční změna 2027", True, False, "vs"),
+    ("VÝZKUM A VÝVOJ (R&D)", -4.89, "meziroční změna 2027", True, False, "vyzkum"),
 ]
 
 # Ikony karet (SVG, kreslené čarou)
